@@ -1,0 +1,13 @@
+canvas {
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px gray;
+  margin-top: 30px;
+}
+
+body{
+  background: linear-gradient(to right, rgb(134, 239, 172), rgb(59, 130, 246), rgb(147, 51, 234));
+}
+
+input{
+  width: 10px;
+}
